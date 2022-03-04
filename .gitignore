@@ -1,0 +1,13 @@
+# Directories
+Manuscript/
+Abstract/
+Cohort\ Data/
+.idea/
+
+
+*.i
+*.ii
+*.gpu
+*.ptx
+*.cubin
+*.fatbin
