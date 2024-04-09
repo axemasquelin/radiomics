@@ -18,3 +18,7 @@ Available Methodologies:
 &nbsp; 3. LASSO Regression  
 &nbsp; 4. LungRads Cutoffs (Based on Guidelines)  
 
+## Dictionary:  
+&nbsp; (1) Patient Identifier - "pid"  
+&nbsp; (2) Class - "ca"  
+&nbsp; (3) Study Year - "STUDY_YR"  
